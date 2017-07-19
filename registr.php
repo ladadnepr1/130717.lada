@@ -1,5 +1,5 @@
 <form method="post" action="index.php">
-    <label>name:
+    <label> name:
         <input type="text" name="name" required/>
     </label>
     <label>email:
